@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\JDJD\\task7\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\1.11\\task-7-1.11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A22AA763-E16B-4154-B9FC-D464E0F83B4F}|task7.csproj|c:\\users\\prdb\\desktop\\jdjd\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A22AA763-E16B-4154-B9FC-D464E0F83B4F}|task7.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\desktop\\1.11\\task-7-1.11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A22AA763-E16B-4154-B9FC-D464E0F83B4F}|task7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\JDJD\\task7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\1.11\\task-7-1.11\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\prdb\\Desktop\\JDJD\\task7\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\1.11\\task-7-1.11\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwEwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:07:48.833Z",
               "EditorCaption": ""
